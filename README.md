@@ -58,7 +58,3 @@ The script will load the Iris dataset, perform logistic regression, tune hyperpa
 You will see various evaluation metrics, visualizations, and interpretations displayed in the console and graphical plots.
 
 For further customization or adaptation to your specific dataset, you can modify the code as needed.
-
----
-
-Feel free to modify and expand the README as required, adding sections like "References," "License," or "Contributing Guidelines" if necessary.
