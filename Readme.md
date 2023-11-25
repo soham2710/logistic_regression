@@ -69,5 +69,5 @@ The script will load the Titanic dataset, perform logistic regression and displa
 - Usage: Use this dataset for predictive modeling, machine learning exercises, or educational purposes.
 
 ## References:
-Kaggle Titanic Dataset
-Seaborn Documentation - Titanic Dataset
+- [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/titanic)
+- [Seaborn Documentation](https://seaborn.pydata.org/generated/seaborn.load_dataset.html)
